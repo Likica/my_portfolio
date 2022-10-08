@@ -1,2 +1,2 @@
 # my_portfolio
-My basic portfolio with HTMl, CSS and Javascript
+My basic portfolio with HTML, CSS and Javascript
